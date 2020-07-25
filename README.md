@@ -1,5 +1,10 @@
 # OktaAngular
 
+# resources
+- https://developer.okta.com/code/angular/
+- https://developer.okta.com/code/angular/okta_angular_sign-in_widget/
+- https://www.npmjs.com/package/@okta/okta-angular#usage
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
 ## Development server
